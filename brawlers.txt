@@ -1,0 +1,105 @@
+
+#  ->  in progress
++  ->  completed
+X  ->  cancelled
+
+long range:
+    BEA
+    BELLE
+
+    GUSS
+    NANI
+    PENNY
+    RICO
+    SURGE
+
+controllers:
+    BO
+    EMZ
+    LOU
+    MAX
+  # POCO
+  # SHELLY
+
+    GALE
+    GRIFF
+    LEON
+    NITA
+    ROSA
+    SPIKE
+
+movement:
+    BUZZ
+    DARRYL
+    BULL
+    COLLETE
+
+    MORTIS
+    STU
+
+
+
+boring:
+    COLT
+    8-BIT
+    AMBER
+
+
+possible but no:
+    ANGELO
+    BIBI
+    BYRON
+    CHARLIE
+    CORDELIUS
+    CARL
+    CHARLIE
+    FRANK
+    GENE
+    GRAY
+    JESSIE
+    PAM
+    RUFFS
+    TARA
+
+too op:
+    CHUCK
+    FANG
+    DOUG
+    SANDY
+
+not possible:
+    CROW
+    MICO
+    BARLEY
+    BONNIE
+    BROCK
+    CROW
+    DYNAMIKE
+    EDGAR
+    EL PRIMO
+    GROM
+    HANK
+    JACKY
+    JANET
+    KIT
+    LARRY
+    MR. P
+    PIPER
+    SPROUT
+    SQUEAK
+    TICK
+
+dont know lol:
+    ASH
+    BUSTER
+    CHESTER
+    EVE
+    LOLA
+    MAISIE
+    MANDY
+    MEG
+    OTIS
+    PEARLS
+    R-T
+    SAM
+    WILLOW

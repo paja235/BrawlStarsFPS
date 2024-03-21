@@ -1,0 +1,23 @@
+DEMO 0.0
+[+]  create basic renderer
+[+]  add rotation
+[+]  add movement
+[+]  add brawler class
+[+]  add collision
+[+]  add minimap
+
+DEMO 1.1
+[ ]  add rotation with a mouse
+[ ]  change rendering system (instead of segments use matrix of chars which represents whether there is a wall or not)
+[ ]  add shooting
+[ ]  add shooting target with health
+
+DEMO 2.0
+[ ]  add SHELLY (without destroying walls)
+[ ]  add POCO
+[ ]  add LEON
+
+DEMO 2.1
+[ ]  add BO
+[ ]  add EMZ
+[ ]  add MAX
